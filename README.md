@@ -55,3 +55,5 @@ import 'package:share_files_socially/share_files_socially.dart';
 ## DEMO
 
 [Demo share files socially with Flutter](https://media.giphy.com/media/StdX1bnv7iIsF6HbNA/giphy.gif)
+
+![In action](https://user-images.githubusercontent.com/6718144/56463745-45ec0380-63b0-11e9-8e56-0dba5deabb1a.gif)
