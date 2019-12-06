@@ -6,7 +6,11 @@ Another Flutter plugin let you share easily files socially.
 
 In the dependencies: section of your pubspec.yaml, add the following line:
 ```
+<<<<<<< HEAD
   share_files_socially: ^0.0.4
+=======
+  share_files_socially: ^0.0.1
+>>>>>>> 49e59c410c9043692544ddc3e48edf74cce58597
 ```
 ## Usage
 
