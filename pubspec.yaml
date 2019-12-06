@@ -1,8 +1,8 @@
 name: share_files_socially
 description: Flutter plugin let you share easily files socially.
-version: 0.0.1
+version: 0.0.4
 author: BOUMZEBRA Ayoub <boumzebraa@gmail.com>
-homepage: https://github.com/ayoubboum/share_files_socially.git
+homepage: https://github.com/ayoubboum/share_files_socially
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
